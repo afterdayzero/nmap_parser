@@ -21,10 +21,7 @@ Enter the host to scan: example.com
 ## List of targets
 If you choose to scan a list of targets, you will be prompted to enter the name of the file containing the list of hosts.
 
-Enter the name of the file containing the list of hosts: hosts.txt
-The file should contain one host per line.
+Enter the name of the file containing the list of hosts: hosts.txt. The file should contain one host per line.
 
 ## Output
 The program will generate an HTML report in the report folder. The report will contain a summary section for each host, showing the number of open ports found, and a table with the details for each port.
-
-The report will be opened automatically in your default web browser.
