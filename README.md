@@ -9,7 +9,9 @@ The nmap library (pip install nmap)
 ## Usage
 To run the program, use the following command:
 `python scan.py`
-You will be prompted to choose between a single target or a list of targets.
+You will be prompted to choose between a single target or a list of targets.<br>
+
+For a cleaner report, copy the style.css file and store it in the same directory as scan.py
 
 ## Single target
 If you choose to scan a single target, you will be prompted to enter the host to scan.
