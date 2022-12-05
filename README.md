@@ -3,7 +3,7 @@
 This program uses the nmap library to scan a host or a list of hosts and generate an HTML report with the scan results.
 
 ## Prerequisites
-Python 3.x
+Python 3.x <br>
 The nmap library (pip install nmap)
 
 ## Usage
