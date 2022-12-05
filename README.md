@@ -4,7 +4,7 @@ This program uses the nmap library to scan a host or a list of hosts and generat
 
 ## Prerequisites
 Python 3.x <br>
-The nmap library (pip install nmap)
+The nmap library (pip install python-nmap)
 
 ## Usage
 To run the program, use the following command:
